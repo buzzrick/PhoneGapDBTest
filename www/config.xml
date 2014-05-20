@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.helloworld"
+        id        = "com.buzzrick.phonegap.dbtest"
         version   = "1.0.0">
 
-    <name>HelloWorld</name>
+    <name>PhoneGap DB Test</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        PhoneGap Database Test
     </description>
 
     <author href="http://phonegap.com" email="support@phonegap.com">
